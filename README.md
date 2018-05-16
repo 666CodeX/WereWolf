@@ -1,0 +1,2 @@
+# WereWolf
+Mafia like game
